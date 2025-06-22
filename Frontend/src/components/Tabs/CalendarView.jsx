@@ -1,7 +1,7 @@
 import MedicationCalendar from "../MedicationCalendar";
 import { IoWarningOutline } from "react-icons/io5";
 
-import "../../styles/CalendarView.css";
+import "../../styles/calendarView.css";
 
 const CalendarView = () => {
   return (
