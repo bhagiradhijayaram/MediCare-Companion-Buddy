@@ -40,3 +40,12 @@ A full-stack role-based medical dashboard system for **Patients** and **Caretake
 | React Router   | Routing and protected pages          |
 
 ---
+
+
+---
+
+## 🛠️ Installation
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/your-username/medi-care-companion.git
