@@ -60,4 +60,6 @@ npm install
 
 ### Screenshots
 
+![Screenshot (707)](https://github.com/user-attachments/assets/b51bd075-e2f8-40c1-9aae-3fbb8b2aac91)
+
 
