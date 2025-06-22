@@ -71,6 +71,10 @@ npm install
 ![Screenshot (711)](https://github.com/user-attachments/assets/41f6bc09-0444-4492-92c9-33b75200a7c2)
 
 
+### Live Preview
 
+Frontend Url: https://medicare-companion.netlify.app/
+
+Backend Url: https://medi-care-companion-buddy-3xq1.vercel.app/
 
 
