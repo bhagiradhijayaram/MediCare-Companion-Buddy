@@ -21,7 +21,7 @@ A full-stack role-based medical dashboard system for **Patients** and **Caretake
 - **Caretakers:** Monitor assigned patients’ medication history
 
 ### 📱 Responsive Design
-- Fully responsive UI using Tailwind CSS v4
+- Fully responsive UI using CSS
 - Mobile-first layout with clean and intuitive user experience
 
 ---
