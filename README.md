@@ -32,7 +32,7 @@ A full-stack role-based medical dashboard system for **Patients** and **Caretake
 |----------------|--------------------------------------|
 | React 19       | Frontend framework                   |
 | Vite           | Development and build tool           |
-| Tailwind CSS   | Styling and layout                   |
+| CSS            | Styling and layout                   |
 | Node.js        | Backend runtime                      |
 | Express.js     | API routing                          |
 | SQLite3        | Lightweight database                 |
