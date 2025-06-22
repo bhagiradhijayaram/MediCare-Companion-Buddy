@@ -48,7 +48,7 @@ A full-stack role-based medical dashboard system for **Patients** and **Caretake
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/medi-care-companion.git
+https://github.com/bhagiradhijayaram/MediCare-Companion-Buddy.git
 
 cd Backend
 npm install
