@@ -44,23 +44,13 @@ A full-stack role-based medical dashboard system for **Patients** and **Caretake
 ## 📁 Folder Structure
 
 MediCare/
-
 ├── Backend/
-
 │ ├── server.js
-
 │ └── routes/
-
 │ └── db/
-
 ├── Frontend/
-
 │ ├── src/
-
 │ │ ├── components/
-
 │ │ ├── pages/
-
 │ │ ├── styles/
-
 │ └── vite.config.js
